@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* .Green{
+    background-color: green;
+    color: white;
+}
+
+.Blue{
+    background-color: blue;
+    color: white;
+}
+
+.Clear{
+    background-color: none;
+    color: black;
+} */
+
+.more75{
+    background-color: cyan;
+}
+
+.low{
+    background-color: rgb(249, 249, 127);
+}
+
+.grey1{
+    background-color: grey;
+    color: white;
+}
+
+.red1{
+    background-color: rgb(242, 130, 130);
+}
