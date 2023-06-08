@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    border: 2px solid blue;
+       
+}
+
+.left{
+    border: 2px solid red;
+    width: 50%;
+    background-image: url("https://c.s-microsoft.com/en-us/CMSImages/All-in-One_1040x585.jpg?version=15692d40-cc47-8fe4-2366-334f32795879");
+    
+}
+
+.one img{
+    height: 50px;
+    border-radius: 50%;
+    
+}
+
+.right{
+    border: 2px solid yellow;
+    width: 50%;
+}
+
